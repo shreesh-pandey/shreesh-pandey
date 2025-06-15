@@ -3,7 +3,6 @@
 # 💫 About Me:
 
  A Certified Project Management Professional (PMP) with around **10 years** of leadership experience in **IT services**, **cloud transformation**, **FP&A**, and **process automation**.
----
 🚀 I specialize in delivering high-impact projects that drive **efficiency**, **cost savings**, and **business growth**. From multi-million-dollar cloud migrations to intelligent automation frameworks for Fortune 500 companies, I align technology with strategy to deliver measurable results.
 ---
 ### 🧠 Expertise
