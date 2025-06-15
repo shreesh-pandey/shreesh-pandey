@@ -2,25 +2,24 @@
 
 # 💫 About Me:
 
- A Certified Project Management Professional (PMP) with around **10 years** of leadership experience in **IT services**, **cloud transformation**, **FP&A**, and **process automation**.
- 
-🚀 I specialize in delivering high-impact projects that drive **efficiency**, **cost savings**, and **business growth**. From multi-million-dollar cloud migrations to intelligent automation frameworks for Fortune 500 companies, I align technology with strategy to deliver measurable results.
----
-### 🧠 Expertise
-- 🌐 Digital & Cloud Transformation (Azure, AWS, SAP-ECC)
-- 🧩 IT Strategy & Governance (ITIL, Risk & Compliance)
-- 🤖 Intelligent Automation (RPA, AI-Driven Optimization)
-- 🛠 Agile Project Execution (Scrum, Waterfall, Hybrid Models)
-- 💼 Financial & Business Process Optimization
----
-### 🏆 Recognitions
-- ⭐ *"Star of Business"* at Accenture for excellence in automation & innovation
-- 🏅 Core Value Champion & People Steward Awardee
-- 🤝 Trusted advisor to C-suite executives on digital transformation
----
-💡 I’m on a mission to **redefine operational excellence** through cutting-edge tech. Whether it’s driving enterprise automation, architecting scalable cloud systems, or leading agile teams — I bring a future-focused, results-driven mindset to every challenge.
+- 🛠 **I’m currently working on**  
+  Reigniting my hands-on coding journey by experimenting with Python, Git, and open-source workflows.
 
-Let’s connect and shape the future of digital transformation together!
+- 🤝 **I’m looking to collaborate on**  
+  Beginner to intermediate Python projects, automation scripts, or documentation improvement tasks.
+
+- 🧠 **I’m looking for help with**  
+  Contributing effectively to open-source repositories and staying up to date with modern development practices.
+
+- 🌱 **I’m currently learning**  
+  Cloud computing and Artificial Intelligence. Trying to blend strategic leadership with emerging technologies.
+
+- 💬 **Ask me about**  
+  Project Management (PMP certified), Agile methodologies, cloud transformation, and automation strategies.
+
+- ⚡ **Fun fact**  
+  I’ve led multi-million-dollar IT projects, but I enjoy writing blogs on **Medium** and **Substack** about tech, productivity, and digital transformation!
+
 ---
 
 ## 🌐 Socials:
@@ -41,8 +40,7 @@ Let’s connect and shape the future of digital transformation together!
 
 ---
 [![](https://visitcount.itsvg.in/api?id=shreesh-pandey&icon=0&color=0)](https://visitcount.itsvg.in)
-
-  ## 💰 You can help me by Donating
+## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/theterran) 
 
   
