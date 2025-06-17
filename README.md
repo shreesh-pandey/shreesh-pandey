@@ -2,8 +2,8 @@
 
 # 💫 About Me:
 
-- 🛠 **I’m currently working on**  
-  Reigniting my hands-on coding journey by experimenting with Python, Git, and open-source workflows.
+- 🛠 **I’m currently**  
+  Working with Accenture as a PM & reigniting my hands-on coding journey by experimenting with Python, Git, and open-source workflows.
 
 - 🤝 **I’m looking to collaborate on**  
   Beginner to intermediate Python projects, automation scripts, or documentation improvement tasks.
